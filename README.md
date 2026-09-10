@@ -12,12 +12,12 @@
 
 ### Learning
 
-As part of my Data Analytics Course, I am learning Python.
+- As part of my Data Analytics Course, I am learning Python.
 
-As part of my Python learning, I am practicing Python fundamentals such as variables, data types, operators, strings, string methods,
-indexing, slicing, and tuples.I am also learning to use built-in functions such as print(), input(), len(), type(), max(), min(), and sum().
+- As part of my Python learning, I am practicing Python fundamentals such as variables, data types, operators, strings, string methods,
+  indexing, slicing, and tuples.I am also learning to use built-in functions such as print(), input(), len(), type(), max(), min(), and     sum().
 
 ### Topics Practiced
 
-In this assignment, I practiced variables, strings, string methods, indexing, slicing, concatenation, and tuples. 
-I also learned how to access and manipulate data using Python's built-in operations and methods.
+- In this assignment, I practiced variables, strings, string methods, indexing, slicing, concatenation, and tuples. 
+  I also learned how to access and manipulate data using Python's built-in operations and methods.
