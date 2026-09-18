@@ -56,5 +56,10 @@
 
 ### Topics Practiced
 
-- In this assignment, I practiced variables, strings, string methods, indexing, slicing, concatenation, and tuples. 
+- In this assignment(1), I practiced variables, strings, string methods, indexing, slicing, concatenation, and tuples. 
   I also learned how to access and manipulate data using Python's built-in operations and methods.
+
+### Assignment 2
+
+- This assignment covers basic Python concepts including list accessing, dictionary creation and modification, set operations,and
+  conditional statements using if, elif, and else.
