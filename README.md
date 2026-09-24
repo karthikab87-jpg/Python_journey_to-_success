@@ -25,7 +25,7 @@
   
 ## Operators
 
-  Arithmetic, comparison,relational,assignment,and logical operations.
+  Arithmetic, comparison, relational, assignment, and logical operations.
   
 ## Conditional Statements
 
@@ -56,8 +56,10 @@
 
 ### Topics Practiced
 
-- In this assignment(1), I practiced variables, strings, string methods, indexing, slicing, concatenation, and tuples. 
-  I also learned how to access and manipulate data using Python's built-in operations and methods.
+### Assignment 1
+
+- I practiced variables, strings, string methods, indexing, slicing, concatenation, and tuples. 
+- I also learned how to access and manipulate data using Python's built-in operations and methods.
 
 ### Assignment 2
 
