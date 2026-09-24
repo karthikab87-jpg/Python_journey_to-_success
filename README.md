@@ -63,3 +63,11 @@
 
 - This assignment covers basic Python concepts including list accessing, dictionary creation and modification, set operations,and
   conditional statements using if, elif, and else.
+
+### Assignment 3
+
+### Loop & Functions
+
+- Created a multiplication table using a for loop and range().
+- Created a BMI Calculator using a function, user input, and the BMI formula.
+- Practiced loops, functions, parameters, return statements, and basic calculations.
