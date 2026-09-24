@@ -29,23 +29,23 @@
   
 ## Conditional Statements
 
-– Making decisions using if, elif, and else.
+- Making decisions using if, elif, and else.
 
 ## Loops 
 
-– Repeating a block of code using for and while loops.
+- Repeating a block of code using for and while loops.
 
 ## Functions
 
-– Creating reusable blocks of code to perform specific tasks.
+- Creating reusable blocks of code to perform specific tasks.
 
 ## Comments 
 
-– Adding explanations or notes within the code.
+- Adding explanations or notes within the code.
 
 ## Indentation
 
-– Defining blocks of code using proper spacing in Python. 
+- Defining blocks of code using proper spacing in Python. 
 
 ### Learning
 
