@@ -12,7 +12,7 @@
    
 ## Data Types
 
- – Different types of data such as integers, floats, strings, booleans.
+ - Different types of data such as integers, floats, strings, booleans.
 
 ## Data Structures
 
