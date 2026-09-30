@@ -74,6 +74,6 @@
 - Created a BMI Calculator using a function, user input, and the BMI formula.
 - Practiced loops, functions, parameters, return statements, and basic calculations.
 
-### Module End Basic python 
+### Module End Basic python Assignment
 
 Survey Feedback Analyzer – A Python-based project that collects and cleans survey feedback, analyzes ratings and frequently used keywords, identifies the longest feedback and unique words, and sorts feedback based on ratings to generate useful insights.
